@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/davidmcserret/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:david.mcs253@gmail.com">
+  <a href="mailto:damat24@student.sdu.dk">
     <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -25,8 +25,6 @@
 ### About
 
 Software Engineering student at **SDU Sønderborg** (Denmark) and Physics student at **UNED** (Spain) — simultaneously. I build full-stack systems, think about hard problems, and write occasionally.
-
-Currently working on **DialysisX** — a gamified cycling experience for hemodialysis patients, turning treatment sessions into a shared real-time race.
 
 ---
 
