@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Building+full-stack+systems;Studying+software+%2B+physics+simultaneously;React+Native+%C2%B7+ASP.NET+Core+%C2%B7+C%23;Occasional+writer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Building+RAG+systems+%2B+LLM+integrations;Software+Eng.+%2B+Physics+simultaneously;Next.js+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Cohere;Shipping+things+that+work" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ Software Engineering student at **SDU Sønderborg** (Denmark) and Physics studen
 ### Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,cs,dotnet,laravel,php,tailwind,supabase,postgres,redis,mongodb,docker,git&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,cs,dotnet,laravel,php,tailwind,supabase,postgres,redis,mongodb,docker,git&perline=8&theme=dark" />
 </p>
 
 ---
@@ -40,6 +40,7 @@ Software Engineering student at **SDU Sønderborg** (Denmark) and Physics studen
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [**RAG Engine**](https://rag-engine-gamma.vercel.app) | Document Q&A from scratch — vector search, reranking, cited answers, three domain skins | Next.js · TypeScript · Supabase/pgvector · Cohere |
 | [**Routr**](https://routr-rosy.vercel.app) | Flight search with multi-airport group selection and open-jaw route optimization | Next.js · TypeScript · Duffel API · Redis |
 | [**Strikepool**](https://github.com/DavidSerret/strikepool) | Table reservation system with WhatsApp confirmation flow | Next.js · TypeScript · Supabase |
 | [**DialysisX**](https://github.com/DavidSerret/dialysisX) | Gamified cycling simulation for dialysis ward patients | React Native · ASP.NET Core · C# · MongoDB |
